@@ -1,12 +1,31 @@
-## Hi there 👋
+# Kubernetes e Terraform
 
-<!--
+Esta organização reúne projetos, módulos e exemplos que integram o uso de **Kubernetes** e **Terraform** para automação, provisionamento e gerenciamento de infraestrutura em nuvem e ambientes locais.
 
-**Here are some ideas to get you started:**
+## Principais Objetivos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Compartilhar boas práticas de infraestrutura como código (IaC)
+- Disponibilizar módulos e exemplos reutilizáveis
+- Automatizar o provisionamento e a gestão de clusters Kubernetes usando Terraform
+
+## Repositórios Principais
+
+- [Devlake](https://github.com/kubernetes-terraform/devlake) — O Apache DevLake (Incubating) ingere, analisa e visualiza dados fragmentados de ferramentas DevOps.
+
+## Como Contribuir
+
+1. Realize um fork do repositório desejado.
+2. Crie uma branch para sua feature/correção.
+3. Envie um Pull Request descrevendo suas alterações.
+
+Consulte nosso [Guia de Contribuição](CONTRIBUTING.md) para mais detalhes.
+
+## Código de Conduta
+
+Todos os participantes devem seguir nosso [Código de Conduta](CODE_OF_CONDUCT.md).
+
+## Contato
+
+Para dúvidas, sugestões ou contribuições, abra uma issue ou entre em contato por [e-mail](mailto:contato@nataliagranato.xyz).
+
+---
